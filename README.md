@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="src/componnets/screenshots/1.png" />
+   <img alt="" src="src/componnets/screenshots/1.png" />
    <img src="src/componnets/screenshots/2.png" />
    <img src="src/componnets/screenshots/3.png" />
    <img src="src/componnets/screenshots/4.png" />
